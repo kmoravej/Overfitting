@@ -36,7 +36,7 @@ plt.title("The scatter plot of X and y");
 plt.xlabel("X");
 plt.ylabel("Y");
 ```
-![](plot.png)
+![20x20](plot.png)
 
 We generated simple linear data. Then, I will add random noise to the data set.
 ```python
