@@ -47,7 +47,7 @@ plt.title("The scatter plot of X and y with noise");
 plt.xlabel("X");
 plt.ylabel("Y");
 ```
-![](plot2.png)
+![](plot2.png | width= 50)
 Let's say we want to extract the underlying trend in the data. We will fit a polynomial line with degree 15, and we would get the following result.
 
 ```python
